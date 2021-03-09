@@ -2,7 +2,7 @@
 
 ## Estudiante: MATEO PASTORINI
 
-![Yo :)](2021s1-tp0-presentacion-MatePasto/Yo.jpg)
+![ - Yo :)](Yo.jpg)
 
 Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
 
